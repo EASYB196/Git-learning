@@ -7,6 +7,8 @@ function Home() {
     <div>
       <Header/>
       <FirstSection/>
+      <Second/>
+      <Footer/>
     </div>
   );
 }
