@@ -1,9 +1,11 @@
 import React from 'react';
-
+import Second from '../Pages/SecondSection';
+import Footer from "../components/Footer"
 function Home() {
   return (
     <div>
-      Home
+      <Second/>
+      <Footer/>
     </div>
   );
 }
